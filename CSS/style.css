@@ -6,16 +6,15 @@ nav
 nav ul 
 {
 	line-height: 10px
-	background-color: black
 }
-/*nav ul li
+nav ul li
 {
 	list-style-type: none;
 	width: 150px;
 	float:left;
 	text-align: center;
 }
-nav ul li a
+
 {
 	text-decoration: none;
 	color:black;
@@ -26,5 +25,5 @@ li a:hover
 {
 	background-color:yellow;
 	color:green;
-}*/
+}
 
