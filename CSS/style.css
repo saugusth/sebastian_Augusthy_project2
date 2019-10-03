@@ -5,7 +5,7 @@ nav
 }
 nav ul 
 {
-	padding:3px;
+	
 }
 nav ul li
 {
@@ -13,7 +13,6 @@ nav ul li
 	width: 150px;
 	float:left;
 	text-align: center;
-	clear:right;
 }
 nav ul li a
 {
@@ -26,9 +25,4 @@ li a:hover
 {
 	background-color:yellow;
 	color:green;
-}
-
-h2: 
-{
-	padding:10px;
 }
