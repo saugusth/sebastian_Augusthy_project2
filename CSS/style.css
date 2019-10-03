@@ -5,7 +5,7 @@ nav
 }
 nav ul 
 {
-	
+	line-height: 10px
 }
 nav ul li
 {
@@ -26,4 +26,7 @@ li a:hover
 	background-color:yellow;
 	color:green;
 }
-
+h2:
+{
+	padding:10px; 
+}
