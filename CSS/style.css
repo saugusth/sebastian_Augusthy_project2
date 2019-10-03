@@ -2,6 +2,7 @@ nav
 {
 	background-color: black
 	hight: 50px;
+	line-break: normal;
 }
 nav ul 
 {
