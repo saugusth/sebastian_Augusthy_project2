@@ -1,6 +1,6 @@
 nav
 {
-	background-color: black 10px !important;
+	background-color: black  !important;
 	hight: 50px;
 	padding-bottom: 25px;
 }
@@ -14,7 +14,6 @@ nav ul li
 	width: 140px;
 	float:left;
 	text-align: center;
-	border-right: 1px solid black;
 }
 
 {
@@ -22,10 +21,5 @@ nav ul li
 	color:black;
 	line-height: 50px
 	display:block;
-}
-li a:hover
-{
-	background-color:yellow;
-	color:green;
 }
 
