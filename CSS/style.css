@@ -6,6 +6,7 @@ nav
 nav ul 
 {
 	line-height: 10px
+	background-color: black
 }
 nav ul li
 {
@@ -17,7 +18,7 @@ nav ul li
 nav ul li a
 {
 	text-decoration: none;
-	color:white;
+	color:black;
 	line-height: 50px
 	display:block;
 }
