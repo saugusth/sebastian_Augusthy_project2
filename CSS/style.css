@@ -1,17 +1,17 @@
 nav
 {
-	background-color: black
+	background-color: black !important;
 	hight: 50px;
 	padding-bottom: 25px;
 }
 nav ul 
 {
-	
+
 }
 nav ul li
 {
 	list-style-type: none;
-	width: 150px;
+	width: 140px;
 	float:left;
 	text-align: center;
 	border-right: 1px solid black;
