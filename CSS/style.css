@@ -1,6 +1,7 @@
 nav
 {
 	background-color: black  !important;
+	background-size: 25px;
 	hight: 50px;
 	padding-bottom: 25px;
 }
