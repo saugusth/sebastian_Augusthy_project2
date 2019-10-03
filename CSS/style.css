@@ -1,0 +1,23 @@
+nav {
+	background-color: #FFEBCD
+	hight: 50px;
+}
+nav ul {
+
+}
+nav ul li{
+	list-style-type: none;
+	width: 150px;
+	float:left;
+	text-align: center;
+}
+nav ul li a{
+	text-decoration: none;
+	color:black;
+	line-height: 50px
+	display:block;
+}
+li a:hover{
+	background-color:yellow;
+	color:green;
+}
