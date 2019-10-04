@@ -2,6 +2,8 @@ nav
 {
 	height: 40px;
 	padding-bottom: 25px;
+	background-color: black !important;
+	font-size: 20px;
 }
 nav ul 
 {
@@ -19,4 +21,8 @@ li a:hover
 {
 	background-color:yellow;
 	color:green;
+}
+h2
+{
+	clear: both;
 }
