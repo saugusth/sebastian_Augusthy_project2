@@ -21,7 +21,7 @@ nav ul li
 li a:hover
 {
 	background-color:black;
-	color:red;
+	color:white;
 }
 h2
 {
@@ -31,4 +31,9 @@ h2
 div
 {
 	text-align:center;
+	font-family: 'Grenze', serif;
+}
+p
+{
+	font-family: "Arial Black", Gadget, sans-serif;
 }
