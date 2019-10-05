@@ -40,10 +40,10 @@ div
 }
 p
 {
-	/*font-family: 'Lato', sans-serif;*/
+	font-family: sans-serif, Arial, Helvetica, ;
 }
 h3
 {
-	font-family: sans-serif, Arial, Helvetica, ;
+	/*font-family: 'Lato', sans-serif;*/
 	font-weight: bold;
 }
