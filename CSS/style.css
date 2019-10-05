@@ -1,6 +1,7 @@
+/*  All 3 pages */
 body
 {
-	background-color: #FFEBCD;
+	
 }
 nav
 {
@@ -47,3 +48,10 @@ h3
 	font-family: 'Lato', sans-serif;
 	font-weight: bold;
 }
+/*  page 1 and page 2 */
+
+.pagecolor
+{
+	background-color: #FFEBCD;
+}
+
