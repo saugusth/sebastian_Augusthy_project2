@@ -61,7 +61,7 @@ h3
 	height: 553px;
 	width: 360px;
 }
-.pfloat
+.textalign
 {
-	float:right;
+	text-align: right;
 }
