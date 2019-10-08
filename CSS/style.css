@@ -54,6 +54,12 @@ h3
 {
 	background-color: #FFEBCD;
 }
+/* page 1*/
+#vresize8
+{
+	width: 640px;
+	height: 360px;
+}
 /* page 2 */
 #vresize1
 {
