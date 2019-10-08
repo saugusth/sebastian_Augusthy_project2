@@ -60,8 +60,13 @@ h3
 {
 	height: 553px;
 	width: 360px;
+	float: left;
 }
-.pfloat
+.textalign
 {
-	text-align: right;
+	float: right;
+}
+.imgclear
+{
+	clear:both;
 }
