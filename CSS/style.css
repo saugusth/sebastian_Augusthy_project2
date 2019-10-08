@@ -89,16 +89,21 @@ h1
 }
 #vresize4 /*Batman Beyond: Return of the Joker*/
 {
-	width: 640px;
-	height: 360px;
+	width: 800px;
+	height: 430px;
+	padding-left: 20px;
+	float:center;
 }
 #vresize5 /*Teen Titans: Trouble in Tokyo*/
 {
-	width: 640px;
-	height: 360px;
+	width: 800px;
+	height: 430px;
+	padding-left: 10px;
+	float:center;
 }
 #vresize6 /*Justice League: The Flashpoint Paradox*/
 {
-	width: 640px;
-	height: 360px;
-}
+	width: 800px;
+	height: 430px;
+	padding-left: 10px;
+	float:center;
