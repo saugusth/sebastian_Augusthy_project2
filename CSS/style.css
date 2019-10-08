@@ -75,13 +75,17 @@ h1
 }
 #vresize2/* Planet Hulk*/
 {
-	width: 640px;
-	height: 360px;
+	width: 800px;
+	height: 430px;
+	padding-left: 10px;
+	float:center;
 }
 #vresize3 /* Next Avengers: Heroes of Tomorrow*/
 {
-	width: 640px;
-	height: 360px;
+	width: 800px;
+	height: 430px;
+	padding-left: 10px;
+	float:center;
 }
 #vresize4 /*Batman Beyond: Return of the Joker*/
 {
