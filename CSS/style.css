@@ -1,8 +1,4 @@
 /*  All 3 pages */
-div
-{
-	text-align: center;
-}
 nav
 {
 	height: 20px;
@@ -35,7 +31,7 @@ h2
 
 div
 {
-	text-align:right;
+	text-align:center;
 	font-family: "Arial Black", Gadget, sans-serif;
 	
 }
