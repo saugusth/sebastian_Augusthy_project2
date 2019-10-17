@@ -1,7 +1,7 @@
 /*  All 3 pages */
 nav
 {
-	height: 20px;
+	height: 50px;
 	width:300px;
 	padding-bottom: 25px;
 	background-color: yellow;
@@ -84,7 +84,7 @@ iframe
 h1
 {
 	clear:both;
-	padding-top: 20px;
+	padding-top: 50px;
 }
 #vresize2/* Planet Hulk*/
 {
