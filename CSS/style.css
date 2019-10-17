@@ -52,6 +52,10 @@ h3
 {
 	background-color: #FFEBCD;
 }
+iframe
+{
+	border:none;
+}
 /* page 1*/
 #vresize8
 {
@@ -80,7 +84,7 @@ h3
 h1
 {
 	clear:both;
-	padding-top: 10px;
+	padding-top: 20px;
 }
 #vresize2/* Planet Hulk*/
 {
