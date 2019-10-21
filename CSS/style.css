@@ -3,6 +3,7 @@ body
 {
 	margin-left: 10px;
 	margin-right: 10px;
+	margin-bottom: 10px;
 }
 nav
 {
@@ -74,11 +75,17 @@ iframe
 {
 	width: 640px;
 	height: 360px;
+	margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 #vresize7
 {
 	width: 640px;
 	height: 360px;
+	margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 .center {
   display: block;
