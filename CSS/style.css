@@ -1,4 +1,8 @@
 /*  All 3 pages */
+body
+{
+	margin: 0 auto;
+}
 nav
 {
 	height: 50px;
