@@ -80,6 +80,12 @@ iframe
 	width: 640px;
 	height: 360px;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 /*  page 3 */
 
 .image_resize1
@@ -129,9 +135,3 @@ h1
 	padding-left: 10px;
 	float:right;
 }
-/*.parpadding
-{
-
-	padding-left: 20px;
-	padding-right: 20px;
-}*/
