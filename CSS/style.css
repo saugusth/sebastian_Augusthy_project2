@@ -37,6 +37,7 @@ h2
 {
 	clear: both;
 	padding-top: 10px;
+	font-size:150%;
 }
 
 div
@@ -84,6 +85,10 @@ ul
 .size
 {
 	font-size: 120%;
+}
+.Bsize
+{
+	font-size:100%;
 }
 /* page 2 */
 #vresize1
@@ -157,7 +162,10 @@ h1
 	padding-left: 10px;
 	float:right;
 }
-
+#centering
+{
+	text-align: center;
+}
 
 
 
