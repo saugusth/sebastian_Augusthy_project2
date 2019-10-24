@@ -69,7 +69,8 @@ iframe
 /* page 1*/
 #vresize8
 {
-  height: 300%;
+	position:absolute;
+  height: 75%;
   width: 75%;
 	margin-left: auto;
   margin-right: auto;
