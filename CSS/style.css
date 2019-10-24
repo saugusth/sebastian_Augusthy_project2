@@ -36,13 +36,14 @@ li a:hover
 h2
 {
 	clear: both;
+	padding-top: 10px;
 }
 
 div
 {
 	text-align:center;
 	font-family: "Arial Black", Gadget, sans-serif;
-	
+  font-size: 100%; 
 }
 p
 {
@@ -68,11 +69,12 @@ iframe
 /* page 1*/
 #vresize8
 {
-	width: 470px;
-	height: 353px;
+  height: 300%;
+  width: 75%;
 	margin-left: auto;
   margin-right: auto;
   display: block;
+  margin-bottom: 10px;
 }
 .size
 {
