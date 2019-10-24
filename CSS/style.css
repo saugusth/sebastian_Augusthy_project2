@@ -74,6 +74,10 @@ iframe
   margin-right: auto;
   display: block;
 }
+.size
+{
+	font-size: 120%;
+}
 /* page 2 */
 #vresize1
 {
