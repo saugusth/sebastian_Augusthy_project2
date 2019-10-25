@@ -74,7 +74,7 @@ ul
 #vresize8
 {
 	position:absolute;
-  height: 40%;
+  height: 90%;
   width: 40%;
 	margin-left: auto;
  	margin-right: auto;
@@ -83,8 +83,8 @@ ul
 #position
 {
 	position: relative;
-  padding-bottom: 40%;*/ /* this is 16:9 aspect ratio */
-  padding-top: 25px;
+  padding-bottom: 20%;
+ 	padding-top: 25px;
   height: 0;
 }
 .size
