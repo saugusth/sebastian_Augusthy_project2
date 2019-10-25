@@ -14,7 +14,7 @@ nav
 	background-color: yellow;
 	font-size: 20px;
 	position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
+	top: 0; /* Position the navbar at the top of the page */
 }
 nav ul 
 {
@@ -166,6 +166,10 @@ h1
 {
 	text-align: center;
 }
+
+
+
+
 
 
 
