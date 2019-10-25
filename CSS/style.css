@@ -54,6 +54,7 @@ p
 }
 h3
 {
+	clear:both;
 	font-family: 'Lato', sans-serif;
 	font-weight: bold;
 	font-size: 25px;
@@ -75,7 +76,7 @@ ul
 {
 	position:absolute;
   height: 90%;
-  width: 40%;
+  width: 50%;
 	margin-left: auto;
  	margin-right: auto;
   display: block;
@@ -93,6 +94,7 @@ ul
 }
 .Bsize
 {
+	font-family:"Comic Sans MS", cursive, sans-serif;
 	font-size:100%;
 }
 /* page 2 */
