@@ -108,7 +108,7 @@ ul
 }
 #vresize7
 {
-	width: 640px;
+	width: 630px;
 	height: 360px;
 	margin-left: auto;
   margin-right: auto;
@@ -172,4 +172,8 @@ h1
 .centering
 {
 	text-align: center;
+}
+.parpadding
+{
+font-family: 'Archivo Narrow', sans-serif;
 }
