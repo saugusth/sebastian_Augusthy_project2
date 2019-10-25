@@ -36,7 +36,6 @@ li a:hover
 h2
 {
 	clear: both;
-	padding-top: 10px;
 	font-size:150%;
 }
 
@@ -74,13 +73,19 @@ ul
 /* page 1*/
 #vresize8
 {
-	position:relative;
-  height: 75%;
-  width: 50%;
+	position:absolute;
+  height: 40%;
+  width: 40%;
 	margin-left: auto;
  	margin-right: auto;
   display: block;
-  margin-bottom: 50px;
+}
+#position
+{
+	position: relative;
+  padding-bottom: 40%;*/ /* this is 16:9 aspect ratio */
+  padding-top: 25px;
+  height: 0;
 }
 .size
 {
@@ -166,10 +171,3 @@ h1
 {
 	text-align: center;
 }
-
-
-
-
-
-
-
