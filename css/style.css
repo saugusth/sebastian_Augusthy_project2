@@ -136,7 +136,6 @@ ul
 h1
 {
 	clear:both;
-	padding-top: 50px;
 }
 #vresize2/* Planet Hulk*/
 {
@@ -184,10 +183,7 @@ font-family: 'Archivo Narrow', sans-serif;
 }
 .pagecolor3
 {
-	background-image: url(../images/Marvel_DC.png);
-}
-.tcolor
-{
-	color:white;
+	background: rgb(63,94,251);
+	background: radial-gradient(circle, rgba(63,94,251,0.6395600476518732) 0%, rgba(252,70,70,0.6815768543745624) 97%);
 }
 
