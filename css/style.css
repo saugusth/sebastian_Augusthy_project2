@@ -8,22 +8,20 @@ body
 }
 nav
 {
-	height: 50px;
-	width:300px;
 	padding-bottom: 25px;
 	background-color: yellow;
 	font-size: 20px;
-	position: fixed; /* Set the navbar to fixed position */
 	top: 0; /* Position the navbar at the top of the page */
+	position: fixed;
 }
 nav ul 
 {
-	
+	text-align: center;
 }
 nav ul li
 {
 	list-style-type: none;
-	width: 120px;
+	width: 500px;
 	float:left;
 	text-align: center;
 }
@@ -152,6 +150,7 @@ ul
 h1
 {
 	clear:both;
+	padding-top: 50px;
 }
 #vresize2/* Planet Hulk*/
 {
